@@ -1,1 +1,22 @@
 # Write your methods here
+
+def loop_message_five_times(message)
+  counter = 0
+  top_end = 5
+  while counter < top_end 
+    puts "Hello World"
+    counter += 1
+  end
+end
+
+def loop_message_n_times(message, integer)
+
+end
+
+def output_array
+  
+end
+
+def return_string_array
+  
+end
