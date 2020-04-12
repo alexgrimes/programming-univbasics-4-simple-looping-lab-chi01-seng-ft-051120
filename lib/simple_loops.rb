@@ -2,7 +2,7 @@
 
 def loop_message_five_times(message)
   counter = 5
-  while counter < top_end 
+  while counter <= 5 
     puts "Hello World"
     counter += 1
   end
