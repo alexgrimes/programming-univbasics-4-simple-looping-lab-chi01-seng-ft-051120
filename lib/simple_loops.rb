@@ -2,7 +2,6 @@
 
 def loop_message_five_times(message)
   count = 0
-  message = "Hello world"
   while count < 5 do
     puts message
     count += 1
